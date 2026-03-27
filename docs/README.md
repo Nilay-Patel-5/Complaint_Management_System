@@ -47,8 +47,8 @@ Key DBMS concepts:
 
 ## DEVELOPER
 
-Nilay Patel
-Student ID : 24CE089
+* Nilay Patel
+* Student ID : 24CE089
 
 ---
 
